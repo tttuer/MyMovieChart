@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F14C9F3721A8F0FA00D29C6A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14C9F3621A8F0FA00D29C6A /* DetailViewController.swift */; };
 		F16161D121980182003A2ED0 /* rain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F16161CE21980182003A2ED0 /* rain.jpg */; };
 		F16161D221980182003A2ED0 /* secret.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F16161CF21980182003A2ED0 /* secret.jpg */; };
 		F16161D321980182003A2ED0 /* darknight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F16161D021980182003A2ED0 /* darknight.jpg */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F14C9F3621A8F0FA00D29C6A /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		F16161CE21980182003A2ED0 /* rain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rain.jpg; path = "../../../../../Downloads/기본편공식예제/Thumbnail/rain.jpg"; sourceTree = "<group>"; };
 		F16161CF21980182003A2ED0 /* secret.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = secret.jpg; path = "../../../../../Downloads/기본편공식예제/Thumbnail/secret.jpg"; sourceTree = "<group>"; };
 		F16161D021980182003A2ED0 /* darknight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = darknight.jpg; path = "../../../../../Downloads/기본편공식예제/Thumbnail/darknight.jpg"; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				F16161CD21980100003A2ED0 /* Resources */,
 				F18E34F92195B2A200AA8203 /* MovieVO.swift */,
 				F18E34E52195A7BA00AA8203 /* AppDelegate.swift */,
+				F14C9F3621A8F0FA00D29C6A /* DetailViewController.swift */,
 				F1F12F512196E59800859F2F /* MovieCell.swift */,
 				F18E34E72195A7BA00AA8203 /* ViewController.swift */,
 				F18E34E92195A7BA00AA8203 /* Main.storyboard */,
@@ -167,6 +170,7 @@
 				F18E34E82195A7BA00AA8203 /* ViewController.swift in Sources */,
 				F18E34FA2195B2A200AA8203 /* MovieVO.swift in Sources */,
 				F18E34E62195A7BA00AA8203 /* AppDelegate.swift in Sources */,
+				F14C9F3721A8F0FA00D29C6A /* DetailViewController.swift in Sources */,
 				F1F12F522196E59800859F2F /* MovieCell.swift in Sources */,
 				F18E34F82195ABBF00AA8203 /* ListViewController.swift in Sources */,
 			);
